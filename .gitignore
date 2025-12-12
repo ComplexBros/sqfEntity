@@ -84,3 +84,4 @@ example/lib/model/test.g.dart
 example_ns
 .DS_Store
 sqfentity/example/ios/Flutter/flutter_export_environment.sh
+example/.flutter-plugins-dependencies

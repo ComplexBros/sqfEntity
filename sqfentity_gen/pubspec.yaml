@@ -4,12 +4,11 @@ description: SqfnEntity Model Generator. SQLite ORM for Flutter lets you build a
 
 version: 2.5.0
 environment:
-  sdk: ">=3.7.0 <4.0.0"
-  flutter: ">=3.27.0"
+  sdk: ">=3.8.0 <4.0.0"
 
 dependencies:
-  build: 2.5.4
-  source_gen: 2.0.0
-  meta: 1.16.0
-  analyzer: 7.5.5
+  build: 4.0.3
+  source_gen: 4.1.1
+  meta: 1.17.0
+  analyzer: any
   intl: 0.20.2
